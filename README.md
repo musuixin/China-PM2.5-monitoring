@@ -6,5 +6,4 @@
  
 
 ## 效果图
-![enter image description here](https://github.com/musuixin/China-PM2.5-monitoring%20/1.png)
-
+![image](https://github.com/musuixin//musuixin/China-PM2.5-monitoring/blob/master/1.png?raw=true)
